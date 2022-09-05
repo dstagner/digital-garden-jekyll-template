@@ -1,0 +1,4 @@
+[submodule "_notes"]
+	path = _notes
+	url = https://github.com/dstagner/maybewrong.git
+	branch = main
